@@ -1,0 +1,9 @@
+{
+    "User registered successfully" : "تم تسجيل الدخول بنجاح",
+    "Login failed" : "فشل تسجيل الدخول",
+    "Invalid credentials" : "المعلومات المدخلة خاطئة",
+    "Check your email for new password" : "تحقق من بريدك الإلكتروني للحصول على كلمة مرور جديدة",
+    "User not found with this email" : "لم يتم العثور على المستخدم مع هذا البريد الإلكتروني",
+    "Login successfully." : "تسجيل الدخول بنجاح.",
+    "Validation Error." : "خطئ في التحقق."
+}

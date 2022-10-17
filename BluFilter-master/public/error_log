@@ -1,0 +1,636 @@
+[04-Apr-2021 07:41:05 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/composer/platform_check.php on line 24
+[19-Apr-2021 15:42:36 Asia/Karachi] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 534777856 bytes) in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php on line 71
+[20-Apr-2021 04:24:09 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[20-Apr-2021 04:25:03 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[20-Apr-2021 04:25:46 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[20-Apr-2021 04:27:14 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[20-Apr-2021 17:18:31 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[20-Apr-2021 17:18:55 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[20-Apr-2021 17:19:00 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[22-Apr-2021 22:04:39 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:05:47 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:07:17 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:10:07 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:14:57 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:22:26 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:25:50 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:27:00 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:27:33 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:27:55 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:28:01 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:28:03 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:30:42 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on the Eloquent builder instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php:1508
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Database\Eloquent\Builder->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource-> in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 1508
+[22-Apr-2021 22:31:03 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[22-Apr-2021 22:34:45 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [id] does not exist on this collection instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php:911
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Support\Collection->__get('id')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jso in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php on line 911
+[23-Apr-2021 02:55:23 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[23-Apr-2021 02:55:26 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[23-Apr-2021 02:55:31 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[23-Apr-2021 02:56:04 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 02:26:49 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 02:27:17 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 03:40:17 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 16:57:19 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /hom in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 16:57:48 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined property: Illuminate\Database\Eloquent\Relations\HasOne::$click_count in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined prope...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71):  in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 16:58:28 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /hom in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 16:58:40 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /hom in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 16:58:42 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /hom in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 16:59:52 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to access array offset on value of type null in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to acces...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /ho in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 17:00:01 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to access array offset on value of type null in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to acces...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /ho in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 17:02:41 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /hom in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 17:04:31 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined property: Illuminate\Database\Eloquent\Relations\HasOne::$click_count in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined prope...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71):  in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 17:18:09 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:19:20 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:19:21 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:19:23 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:20:38 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:20:40 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:20:41 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:20:43 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:20:44 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:20:45 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:26:43 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:30:15 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:33:47 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:34:35 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:37:29 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to access array offset on value of type null in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to acces...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /ho in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 17:39:00 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined index: click_count in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:1424
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(1424): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined index...', '/home/shekwinw/...', 1424, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Support\Collection->offsetGet('click_count')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\R in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 1424
+[25-Apr-2021 17:39:19 Asia/Karachi] PHP Fatal error:  Uncaught Exception: Property [click_count] does not exist on this collection instance. in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php:911
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Support\Collection->__get('click_count')
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /home/shekwinw/blue in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Collections/Traits/EnumeratesValues.php on line 911
+[25-Apr-2021 17:40:51 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:41:15 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:41:33 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:43:56 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /hom in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 17:48:44 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:49:01 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to access array offset on value of type null in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:80
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(80): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to acces...', '/home/shekwinw/...', 80, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Http\Resources\Json\JsonResource->offsetGet('click_count')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\H in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 80
+[25-Apr-2021 17:49:19 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 136, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Http\Resources\Json\JsonResource->__get('click_count')
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Htt in /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[25-Apr-2021 17:51:51 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/app/Models/User.php:111
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Models/User.php(111): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 111, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php(494): App\Models\User->getClicksAttribute(NULL)
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php(1608): Illuminate\Database\Eloquent\Model->mutateAttribute('clicks', NULL)
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php(407): Illuminate\Database\Eloquent\Model->transformModelValue('clicks', NULL)
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Data in /home/shekwinw/bluefilter.shekhobaba.com/app/Models/User.php on line 111
+[25-Apr-2021 17:52:14 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Undefined property: Illuminate\Database\Eloquent\Relations\HasOne::$click_count in /home/shekwinw/bluefilter.shekhobaba.com/app/Models/User.php:111
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Models/User.php(111): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined prope...', '/home/shekwinw/...', 111, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php(494): App\Models\User->getClicksAttribute(NULL)
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php(1608): Illuminate\Database\Eloquent\Model->mutateAttribute('clicks', NULL)
+#3 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php(407): Illuminate\Database\Eloquent\Model->transformModelValue('clicks', NULL)
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/ in /home/shekwinw/bluefilter.shekhobaba.com/app/Models/User.php on line 111
+[25-Apr-2021 17:52:49 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 17:56:52 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /hom in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 17:58:06 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /hom in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 18:00:00 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /hom in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 18:00:23 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'click_count' of non-object in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php:36
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/shekwinw/...', 36, Array)
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\UserResource->toArray(Object(Illuminate\Http\Request))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#3 [internal function]: Illuminate\Http\Resources\Json\JsonResource->jsonSerialize()
+#4 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(71): json_encode(Array, 0)
+#5 /hom in /home/shekwinw/bluefilter.shekhobaba.com/app/Http/APIResources/UserResource.php on line 36
+[25-Apr-2021 19:17:21 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 19:17:36 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 19:18:15 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 19:19:24 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 19:19:41 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[25-Apr-2021 19:19:47 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to App\Exceptions\Handler::handleApiException() must be an instance of Exception, instance of TypeError given, called in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 48 and defined in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php:55
+Stack trace:
+#0 /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Illuminate\Http\Request), Object(TypeError))
+#1 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(119): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(TypeError))
+#2 /home/shekwinw/bluefilter.shekhobaba.com/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(96): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(TypeError))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleEx in /home/shekwinw/bluefilter.shekhobaba.com/app/Exceptions/Handler.php on line 55
+[05-May-2021 04:58:08 America/Chicago] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.23. in /home/bluefilter/public_html/vendor/composer/platform_check.php on line 24
+[18-May-2021 01:38:34 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[18-May-2021 01:38:34 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[18-May-2021 20:13:38 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[18-May-2021 20:14:31 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[18-May-2021 20:19:30 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[18-May-2021 20:25:47 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[18-May-2021 20:29:59 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[18-May-2021 21:03:12 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[18-May-2021 21:07:23 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[18-May-2021 21:09:30 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[18-May-2021 21:14:56 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[18-May-2021 21:29:29 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[19-May-2021 11:57:35 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[01-Jun-2021 20:28:16 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[02-Jun-2021 23:08:32 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[06-Jun-2021 19:22:31 Asia/Karachi] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'id' of non-object in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php:136
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php(136): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluefilte...', 136, Array)
+#1 /home/bluefilter/public_html/app/Http/APIResources/PostResource.php(18): Illuminate\Http\Resources\Json\JsonResource->__get('id')
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(95): App\Http\APIResources\PostResource->toArray(Object(Illuminate\Http\Request))
+#3 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php(231): Illuminate\Http\Resources\Json\JsonResource->resolve(Object(Illuminate\Http\Request))
+#4 [internal function]: Illuminate\Http\Resources\Json\JsonResourc in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 136
+[01-Jul-2021 22:29:11 Asia/Karachi] PHP Fatal error:  Uncaught InvalidArgumentException: Type is not supported in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php:84
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/symfony/http-foundation/JsonResponse.php(54): Illuminate\Http\JsonResponse->setData(Array)
+#1 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(32): Symfony\Component\HttpFoundation\JsonResponse->__construct(Array, 500, Array, false)
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(99): Illuminate\Http\JsonResponse->__construct(Array, 500, Array, 0)
+#3 /home/bluefilter/public_html/app/Exceptions/Handler.php(110): Illuminate\Routing\ResponseFactory->json(Array, 500)
+#4 /home/bluefilter/public_html/app/Exceptions/Handler.php(70): App\Exceptions\Handler->customApiResponse(Object(InvalidArgumentException))
+#5 /home/bluefilter/public_html/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Il in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php on line 84
+[01-Jul-2021 22:29:25 Asia/Karachi] PHP Fatal error:  Uncaught InvalidArgumentException: Type is not supported in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php:84
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/symfony/http-foundation/JsonResponse.php(54): Illuminate\Http\JsonResponse->setData(Array)
+#1 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(32): Symfony\Component\HttpFoundation\JsonResponse->__construct(Array, 500, Array, false)
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(99): Illuminate\Http\JsonResponse->__construct(Array, 500, Array, 0)
+#3 /home/bluefilter/public_html/app/Exceptions/Handler.php(110): Illuminate\Routing\ResponseFactory->json(Array, 500)
+#4 /home/bluefilter/public_html/app/Exceptions/Handler.php(70): App\Exceptions\Handler->customApiResponse(Object(InvalidArgumentException))
+#5 /home/bluefilter/public_html/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Il in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php on line 84
+[01-Jul-2021 22:29:42 Asia/Karachi] PHP Fatal error:  Uncaught InvalidArgumentException: Type is not supported in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php:84
+Stack trace:
+#0 /home/bluefilter/public_html/vendor/symfony/http-foundation/JsonResponse.php(54): Illuminate\Http\JsonResponse->setData(Array)
+#1 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php(32): Symfony\Component\HttpFoundation\JsonResponse->__construct(Array, 500, Array, false)
+#2 /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php(99): Illuminate\Http\JsonResponse->__construct(Array, 500, Array, 0)
+#3 /home/bluefilter/public_html/app/Exceptions/Handler.php(110): Illuminate\Routing\ResponseFactory->json(Array, 500)
+#4 /home/bluefilter/public_html/app/Exceptions/Handler.php(70): App\Exceptions\Handler->customApiResponse(Object(InvalidArgumentException))
+#5 /home/bluefilter/public_html/app/Exceptions/Handler.php(48): App\Exceptions\Handler->handleApiException(Object(Il in /home/bluefilter/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php on line 84
